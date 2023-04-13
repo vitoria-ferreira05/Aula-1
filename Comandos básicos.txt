@@ -1,0 +1,37 @@
+Comandos básicos para o terminal MacOS, Linux e
+PowerShell Windows
+
+Lembre-se que para abrir seu terminal você pode:
+- Windows: Pressionar Windows + R. Digite PowerShell e tecle Enter
+- Linux: Ctrl+Alt+T.
+- MacBook: COMMAND + ESPAÇO” e digitar “terminal”
+
+● ls - lista os arquivos presentes no diretório cujo caminho é dado
+como operando; se não é dado um caminho, lista o diretório corrente
+de trabalho;
+
+● cd - altera diretório corrente de trabalho para o caminho dado como
+operando
+○ Exemplo: cd Downloads
+
+● rm - remove arquivo cujo caminho é dado como operando;
+○ Exemplo: rm telefones.txt
+
+● touch arquivoTexto.txt - comando para criaçao de arquivos
+○ Exemplo: touch minhasMusicasFavoritas.txt
+
+● echo "texto qualquer" >> nomeArquivo - comando de impressão
+que atribui a um arquivo o valor digitado
+○ Exemplo: echo "Curso de Mobile Android" >> listaCursos.txt
+
+● cat - lê e exibe o conteúdo do arquivo do caminho dado como
+operando;
+○ Exemplo: cat listaCursos.txt
+
+Material de Apoio - Aula 01
+● cp: copia ou duplica um arquivo
+○ Exemplo: cp arquivo1.txt arquivo2.txt
+
+● pwd - escreve na tela o caminho do diretório de trabalho corrente;
+● history - lista os comandos já executados;
+● clear ou clc no Powershell - limpa a tela do terminal;
